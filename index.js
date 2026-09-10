@@ -90,3 +90,5 @@ app.listen(PORT , () => {
     console.log("i,m listening in port" , PORT);
     
 }) 
+
+module.exports = app
